@@ -10,6 +10,7 @@ public class ProductoDTO {
 	private long id;
 	private String nombre;
 	private String categoriaNombre;
+	private String nombres
 	//private String categoria;
 
 }
